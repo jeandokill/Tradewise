@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /api
+Disallow: /cart
+Disallow: /checkout
+Disallow: /login
+Disallow: /reset-password
+
+Sitemap: https://tradewise.rw/sitemap.xml
